@@ -10,6 +10,6 @@ public class prime {
     
     public static void main(String[] args) {
         prime p = new prime();
-        System.out.println(p.isPrime(2));
+        System.out.println(p.isPrime(5));
     }
 }
